@@ -1,9 +1,11 @@
 **FAIZ MOHAMMAD – DATA ANALYTICS PORTFOLIO**
 
 About Me :
+
 Power BI Analyst with 4+ years of experience in dashboard development, DAX, SQL, and data modeling. I build scalable BI solutions that turn data into actionable insights.
 
 Skills :
+
 Power BI (Dashboarding, Optimization)
 DAX (Time Intelligence, KPIs)
 SQL (Joins, CTEs, Optimization)
